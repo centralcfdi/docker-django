@@ -1,2 +1,2 @@
 # docker-django
-Dockerfile for Django uwsgi using python on 2.7
+Dockerfile for Django using python 2.7 uwsgi mysqlclient wkhtmltopdf m2crypto
